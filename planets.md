@@ -9,5 +9,5 @@ The planets, in order of their distance outward from the Sun, are
 - Mars, 
 - Jupiter, 
 - Saturn, 
-- Uranus, 
+- Uranus has 7 moons, 
 - and Neptune.

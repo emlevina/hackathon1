@@ -9,5 +9,4 @@ The planets, in order of their distance outward from the Sun, are
 - Mars, 
 - Jupiter, 
 - Saturn, 
-- Uranus, 
 - and Neptune.
